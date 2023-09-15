@@ -84,7 +84,7 @@ using WebAssembly. A hosted version of Pomelo can be found at
 [Pomelo]: https://github.com/tosc-rs/mnemos/tree/main/platforms/pomelo
 [mlem]: https://anatol.versteht.es/mlem/
 [`just` recipe]: ./justfile
-[`manganese`]: ./tools/manganese/
+[`manganese`]: ./tools/manganese
 
 ## Learn More
 
